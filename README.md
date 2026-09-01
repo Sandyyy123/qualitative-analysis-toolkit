@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # Qualitative Analysis Toolkit
 
 Python toolkit for **phenomenological and thematic analysis** — parses MAXQDA `.qdpx` exports via the REFI-QDA open standard, generates structured codebooks, and produces frequency/cross-tabulation reports.
